@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.head-line{
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.highlight{
+   text-align: center;
+   background-color: yellow;
+   color: black;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: large;
+}
+.image-center{
+    display: flex;
+    justify-content: center;
+}
+.achiv{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+
